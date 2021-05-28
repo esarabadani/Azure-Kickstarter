@@ -7,5 +7,3 @@ In this challenge you are asked to host a test website on Azure. You can use a n
 - The use of any Operating System or any web server is allowed.
 - Feel free to use any content for the homepage. 
 - All your Azure components must be in the same region. 
-
-Here is the [link](https://github.com/esarabadani/Azure-Kickstarter/blob/main/Challenges/Challenge1-hints.md) to the hints page in case you need more help.
