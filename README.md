@@ -17,4 +17,4 @@ You are responsible for orchestrating and implementing this PoC from end to end.
 - Challenge 4 - Enable disaster recovery for your servers and storage
 - Challenge 5 - Expand your web servers' presence to more regions and increase their availability
 
-Click on each challenge above and get started. There is a hints page available 
+Click on each challenge above and get started. As mentioned above, there is a hints page available per challenge. Read it only if you feel stuck, it will hopefully give you some clues.
