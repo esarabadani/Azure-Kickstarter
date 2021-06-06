@@ -10,7 +10,7 @@ In this challenge you are asked to configure Azure Files to provide file storage
 - Using the Virtual Machine, make sure you can copy files to and from the file share.
 
 #### Essential Readings
-[What is Azure Files?](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
-[What is Azure Private Link?](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
-[Private Endpoint for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)
-[Geo Redundancy in Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-planning#redundancy)
+- [What is Azure Files?](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
+- [What is Azure Private Link?](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
+- [Private Endpoint for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)
+- [Geo Redundancy in Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-planning#redundancy)

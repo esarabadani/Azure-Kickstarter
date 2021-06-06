@@ -9,5 +9,5 @@ In this challenge you are asked to host a test website on Azure. You can use a n
 - All your Azure components must be in the same region.
 
 #### Essential Readings
-[SLA and Availability for Virtual Machines on Azure](https://azure.microsoft.com/en-us/support/legal/sla/virtual-machines/v1_9/)
-[Regions and Availability Zones in Azure](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
+- [SLA and Availability for Virtual Machines on Azure](https://azure.microsoft.com/en-us/support/legal/sla/virtual-machines/v1_9/)
+- [Regions and Availability Zones in Azure](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
