@@ -3,7 +3,11 @@ In this challenge you are asked to host a test website on Azure. You can use a n
 ### Success Requirements
 - Your website needs to be publicly available (Internet facing)
 - Ensure security by allowing only web traffic from the Internet, and SSH traffic internally. 
-- Guarantee an availability of 99.99% for your website
+- Guarantee an availability of 99.99% for your website.
 - The use of any Operating System or any web server is allowed.
-- Feel free to use any content for the homepage. 
-- All your Azure components must be in the same region. 
+- Feel free to use any content for the homepage.
+- All your Azure components must be in the same region.
+
+#### Essential Readings
+[SLA and Availability for Virtual Machines on Azure](https://azure.microsoft.com/en-us/support/legal/sla/virtual-machines/v1_9/)
+[Regions and Availability Zones in Azure](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
