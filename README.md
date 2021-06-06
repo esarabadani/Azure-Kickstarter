@@ -15,6 +15,6 @@ You are responsible for orchestrating and implementing this PoC. Together with t
 - [Challenge 2](/Challenges/Challenge2.md) - Set up and configure file storage on Azure
 - [Challenge 3](/Challenges/Challenge3.md) - Configure backup for your files and servers
 - [Challenge 4](/Challenges/Challenge4.md) - Enable disaster recovery for your servers and storage
-- [Challenge 5 (Bonus)](/Challenges/Challenge5.md) - Expand your web servers' presence to more regions and increase their availability
+- [Challenge 5](/Challenges/Challenge5.md) (Bonus) - Expand your web servers' presence to more regions and increase their availability
 
 Click on each challenge above and get started. As mentioned above, there is a hints page available per challenge. Read it only if you feel stuck, it will give you some clues.
