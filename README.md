@@ -12,9 +12,9 @@ You are a cloud architect working at Contoso. Contoso is an insurance company wi
 You are responsible for orchestrating and implementing this PoC. Together with the team you have decided to split the whole test into separate stages:
 
 - [Challenge 1](/Challenges/Challenge1.md) - Implement public facing web servers in a highly-available setup
-- Challenge 2 - Set up and configure file storage on Azure
-- Challenge 3 - Configure backup for your files and servers
-- Challenge 4 - Enable disaster recovery for your servers and storage
-- Challenge 5 (Bonus) - Expand your web servers' presence to more regions and increase their availability
+- [Challenge 2](/Challenges/Challenge2.md) - Set up and configure file storage on Azure
+- [Challenge 3](/Challenges/Challenge3.md) - Configure backup for your files and servers
+- [Challenge 4](/Challenges/Challenge4.md) - Enable disaster recovery for your servers and storage
+- [Challenge 5 (Bonus)](/Challenges/Challenge5.md) - Expand your web servers' presence to more regions and increase their availability
 
 Click on each challenge above and get started. As mentioned above, there is a hints page available per challenge. Read it only if you feel stuck, it will give you some clues.
