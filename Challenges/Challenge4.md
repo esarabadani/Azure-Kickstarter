@@ -4,8 +4,7 @@ You need to implement disaster revovery for your entire infrastructure. Your dis
 ### Success Requirements
 - Recovering Virtual Machines and Azure Files share should be enough. You don't need to recover an Azure Load Balancer, private endpoints, or any other infrastructure components. Doing so however helps you gain bonus points.
 - Use Azure Site Recovery for Virtual Machines recovery.
-- Recover Azure Files share using its built-in recovery mechanism.
-- Make sure all your infrastructure components are recovered to the same region.
+- Make sure all your infrastructure components are recovered to the same recovery region.
 - You are not limited by any specific SLA, RTP, RPO for this exercise. 
 
 #### Essential Readings
